@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BCoin2024.kicad_pro",
+    "filename": "BurbSec_GenCoin.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/v0.4/",
+      "plot": "gerbers/0.1/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
